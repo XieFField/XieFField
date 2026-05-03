@@ -4,18 +4,18 @@
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XieFField&theme=tokyonight" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XieFField&theme=tokyonight" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XieFField&theme=tokyonight" width="33%" />
-</div>
+</div> -->
 
 
-<!-- <h2 align="center">
+<h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub Activity
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2> -->
+</h2>
 
 <div align="center">
 <picture>
