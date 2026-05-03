@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi! 我是XieFField.
+    Hi👋 我是XieFField. 
 </h2>
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
