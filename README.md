@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XieFField&theme=tokyonight" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XieFField&theme=tokyonight" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XieFField&theme=tokyonight" width="33%" />
-</div> -->
+</div> 
 
 
 <h2 align="center">
@@ -21,7 +21,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XieFField/XieFField/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XieFField/XieFField/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XieFField/XieFField/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XieFField/XieFField/output/github-contribution-grid-snake-dark.svg" width="100%"> -->
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XieFField&theme=tokyonight" width="100%" />
