@@ -1,7 +1,10 @@
 <h2 align="center">
     Hi👋 我是XieFField. 
 </h2>
-<h2 align="center">
+
+<h3 align = "">
+<p style="text-align: justify;"> 一名C/C++/Rust嵌入式开发者，爱好机器人 <\p>
+
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Contributions
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
