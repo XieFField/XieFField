@@ -3,7 +3,8 @@
 </h2>
 
 
-<p style="text-align: center;">                     一名C/C++/Rust嵌入式开发者，爱好机器人 
+<h3 align="center">一名C/C++/Rust嵌入式开发者，爱好机器人 
+</h3>
 <h3 align = "center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Contributions
